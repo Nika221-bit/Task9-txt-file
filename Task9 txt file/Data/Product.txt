@@ -1,0 +1,9 @@
+﻿1|Laptop Asus|2500.50|Gaming Laptop 16GB RAM
+2|Mouse Logitech|85.00|Wireless Optical Mouse
+3|Keyboard Mechanical|180.00|RGB Red Switches
+4|Monitor Dell|650.00|4K IPS 27 Inch
+5|Headset HyperX|220.00|7.1 Surround Sound6|laptop acer|1500|working laptop
+6|laptop|2000|gaming laptop
+7|phone|2500|iphone 14 pro
+8|phone|1300|samsung a72
+9|Rtx 5060|1100|GPU

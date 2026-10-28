@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Task9 txt file/1.0.0": {
+        "runtime": {
+          "Task9 txt file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task9 txt file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

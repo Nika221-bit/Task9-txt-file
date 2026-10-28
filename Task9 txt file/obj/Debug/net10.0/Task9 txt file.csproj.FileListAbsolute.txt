@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\bin\Debug\net10.0\Task9 txt file.exe
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\bin\Debug\net10.0\Task9 txt file.deps.json
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\bin\Debug\net10.0\Task9 txt file.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\bin\Debug\net10.0\Task9 txt file.dll
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\bin\Debug\net10.0\Task9 txt file.pdb
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\obj\Debug\net10.0\Task9 txt file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\obj\Debug\net10.0\Task9 txt file.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\obj\Debug\net10.0\Task9 txt file.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\obj\Debug\net10.0\Task9 txt file.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\obj\Debug\net10.0\Task9 txt file.dll
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\obj\Debug\net10.0\refint\Task9 txt file.dll
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\obj\Debug\net10.0\Task9 txt file.pdb
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\obj\Debug\net10.0\Task9 txt file.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Task9 txt file\Task9 txt file\obj\Debug\net10.0\ref\Task9 txt file.dll
